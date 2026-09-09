@@ -17,6 +17,6 @@
 2. Открыть файл `index.html` в любом браузере
 
  🔗 Ссылка на проект
-[(https://eat-ego.github.io/ai-copywriter-landing)](https://eat-ego.github.io/ai-copywriter-landing/) 
+(https://eat-ego.github.io/ai-copywriter-landing)
  👤 Автор
 Eat-ego
